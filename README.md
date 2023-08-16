@@ -1,1 +1,1 @@
-# .github
+# TMS-VIT => Timetable Management System
